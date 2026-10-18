@@ -17,10 +17,10 @@ My day job is in private repos. These are my side projects:
 ### Latest posts
 
 <!-- POSTS:START -->
+- [What I built after Kent C. Dodds's webinar](https://tany4.com/blog/posts/what-i-built-after-the-kent-c-dodds-post) · 17 Oct 2026
 - [Greek voice commands for Android Auto](https://tany4.com/blog/posts/greek-voice-commands-for-android-auto) · 11 Oct 2026
 - [What I'm taking from Kent C. Dodds's agent setup, and what I'm not](https://tany4.com/blog/posts/what-i-take-from-kent-c-dodds-agent-setup) · 3 Oct 2026
 - [Running AI coding sessions in parallel](https://tany4.com/blog/posts/running-ai-coding-sessions-in-parallel) · 1 Oct 2026
-- [Teaching my job-hunting MCP server what it can do](https://tany4.com/blog/posts/teaching-my-job-hunting-mcp-server-what-it-can-do) · 2 Jul 2026
 <!-- POSTS:END -->
 
 ### Stack
