@@ -17,10 +17,10 @@ My day job is in private repos. These are my side projects:
 ### Latest posts
 
 <!-- POSTS:START -->
+- [Rewriting my dog's medication app from my phone](https://tany4.com/blog/posts/marios-helper-v3) · 20 Oct 2026
+- [Fixing the app I built for my dog's medication schedule](https://tany4.com/blog/posts/marios-helper-v2) · 20 Oct 2026
 - [What I built after Kent C. Dodds's webinar](https://tany4.com/blog/posts/what-i-built-after-the-kent-c-dodds-post) · 17 Oct 2026
 - [Greek voice commands for Android Auto](https://tany4.com/blog/posts/greek-voice-commands-for-android-auto) · 11 Oct 2026
-- [What I'm taking from Kent C. Dodds's agent setup, and what I'm not](https://tany4.com/blog/posts/what-i-take-from-kent-c-dodds-agent-setup) · 3 Oct 2026
-- [Running AI coding sessions in parallel](https://tany4.com/blog/posts/running-ai-coding-sessions-in-parallel) · 1 Oct 2026
 <!-- POSTS:END -->
 
 ### Stack
