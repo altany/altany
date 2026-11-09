@@ -17,10 +17,10 @@ My day job is in private repos. These are my side projects:
 ### Latest posts
 
 <!-- POSTS:START -->
+- [A Greek handwriting keyboard for the iPad](https://tany4.com/blog/posts/greek-handwriting-keyboard-for-the-ipad) · 9 Nov 2026
 - [Letting an AI agent edit my Google Docs safely](https://tany4.com/blog/posts/my-job-hunting-mcp-server-can-now-edit-its-docs) · 27 Oct 2026
 - [Rewriting my dog's medication app from my phone](https://tany4.com/blog/posts/marios-helper-v3) · 20 Oct 2026
 - [Fixing the app I built for my dog's medication schedule](https://tany4.com/blog/posts/marios-helper-v2) · 20 Oct 2026
-- [What I built after Kent C. Dodds's webinar](https://tany4.com/blog/posts/what-i-built-after-the-kent-c-dodds-post) · 17 Oct 2026
 <!-- POSTS:END -->
 
 ### Stack
